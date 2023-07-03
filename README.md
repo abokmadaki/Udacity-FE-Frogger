@@ -26,7 +26,6 @@ You will learn JavaScript’s object oriented programming features to write eloq
 4. Download the [art assets and provided game engine](https://github.com/udacity/frontend-nanodegree-arcade-game).
 5. Review [the video of the completed game](https://youtu.be/SxeHV1kt7iU) and take note of the game's rules.
 
-![Arcade Game Demo](https://youtu.be/kaifTslArtY)
 
 1. Review the code and comments provided in app.js
 2. Identify the various classes you will need to write.
